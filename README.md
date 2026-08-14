@@ -27,6 +27,22 @@ I am a Software Engineering student with hands-on experience in Python, Streamli
 
 ---
 
+## 🚀 Projects
+
+**FitPulse (VORTEX Gym Website)** — *Team Project*
+A modern, responsive gym website offering workout programs (Gym, Cardio, Boxing, Yoga), a BMI calculator with health categorization, trainer booking, membership plans, progress tracking, and user authentication pages.
+**My role:** Built the site-wide layout (header, footer, and page linking/navigation) and developed the BMI Calculator page.
+`Tech: HTML5, CSS3, JavaScript (ES6), Bootstrap 5, Chart.js`
+[🔗 Repository](https://github.com/mohamedelsherife/FitPulse)
+
+**University Portal** — *Team Project*
+A full CRUD Laravel system for managing Departments, Students, Courses, Professors, and Enrollments, built with a clean **Controller → Service → DTO → Blade View** architecture, reusable Blade components, live search, and a fully responsive dark-navbar UI.
+**My role:** Built the shared core UI — the main layout (navigation, header, footer) and the reusable Blade components (`x-button`, `x-table`, `x-card`, `x-alert`, `x-form`, `x-form-input`, `x-form-select`, `x-search-bar`) used across the whole app — plus the full Department Management module (Create, Read, Update, Delete).
+`Tech: Laravel, Blade, PHP, JavaScript, MySQL`
+[🔗 Repository](https://github.com/mohamedelsherife/university-portal-starter)
+
+---
+
 ## 🎓 Education
 
 **Libyan International Medical University** | *2023 – 2027*
