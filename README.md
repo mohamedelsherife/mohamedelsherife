@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Elsherife<br>🎓 Software Engineering Student - Benghazi, Libya<br><br>💻 Languages: Python, Java, C++<br>📊 Data: Pandas, NumPy, Streamlit, Power BI<br>🌐 Web: HTML, CSS, JS, Laravel<br><br>🚀 Projects:<br><br>Interactive dashboards for Amazon & Titanic data<br>Custom chatbot for Arriada Group Store<br>FitPulse - gym website<br>University Portal - management system with Laravel<br><br>📫 Reach me on LinkedIn<br>🌍 Check out my Portfolio
+👋 Hi, I'm Mohamed Elsherife<br>🎓 Software Engineering Student - Benghazi, Libya<br><br>💻 Languages: Python, Java, C++<br>📊 Data: Pandas, NumPy, Streamlit, Power BI<br>🌐 Web: HTML, CSS, JS, Laravel<br><br>🚀 Projects:<br><br>Interactive dashboards for Amazon & Titanic data<br>Custom chatbot for Arriada Group Store<br>FitPulse - gym website<br>University Portal - management system with Laravel<br>
 
 
 ## 🌐 Socials:
